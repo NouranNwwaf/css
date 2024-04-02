@@ -1,0 +1,15 @@
+.Atyourservice{
+    background-color: darkgray;
+  text-align: center;
+}  
+ p{color: teal;}
+.service{
+  display: inline-block;
+  width: 25%;
+
+
+}
+i{
+ 
+  color:rgba(180, 52, 6, 0.918);
+}
